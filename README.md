@@ -1,3 +1,3 @@
-# Image_Change(FragmentShader)
-![image](https://github.com/TomoyaOka/distortionTexture/assets/73698770/98a3ba66-9ea0-4ad3-8d40-c776bc802895)
+# GravityTextureRGB
+![image](https://github.com/TomoyaOka/GravityTexture/assets/73698770/2c971eb2-d031-4afc-aedc-a0e6d0250f79)
 
